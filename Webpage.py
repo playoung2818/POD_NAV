@@ -487,12 +487,9 @@ document.addEventListener('click', function (e) {
 </script>
 
 
-
-
 </body>
 </html>
 """
-
 
 
 if __name__ == "__main__":

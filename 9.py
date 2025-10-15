@@ -1,31 +1,34 @@
 import pandas as pd
 import csv
+from sqlalchemy import create_engine
+# Build Supabase engine
+DATABASE_DSN = (
+    "postgresql://postgres.avcznjglmqhmzqtsrlfg:Czheyuan0227@"
+    "aws-0-us-east-2.pooler.supabase.com:6543/postgres?sslmode=require"
+)
+engine = create_engine(DATABASE_DSN, pool_pre_ping=True)
 
 replace = pd.read_csv("item name replace.csv")
 
 #SO
-SO = pd.read_csv("open sales orders.csv", encoding="utf-8")
-columns_to_drop = ["Qty", "Type", "Due Date", "Terms", "Amount","Deliv Date", "Open Balance", "Invoiced", "Rep"]
+SO = pd.read_sql_table("open_sales_orders", con=engine, schema="public") # Pull from Supabase
+columns_to_drop = ["Type", "Due Date", "Terms", "Amount","Deliv Date", "Open Balance", "Invoiced", "Rep"]
 SO.drop(columns=columns_to_drop, inplace=True)
-SO.rename(columns={"Date": "Order Date", "Num": "QB Num", "Backordered": "Qty(-)"}, inplace=True)
-SO.drop(SO.columns[0], axis=1, inplace=True)# 刪除第一欄
-# 刪除全空值的行，以及至少 6 個非空值的行
+SO.rename(columns={"Date":"Order Date","WO_Number":"QB Num","Qty":"Qty(-)"},inplace=True)
+SO.drop(SO.columns[0], axis=1, inplace=True)
 SO.dropna(how="all", inplace=True)
 SO.dropna(thresh=6, inplace=True)
-# 清理 'Item' 欄位
 SO['Item'] = SO['Item'].str.split(':').str[1].str.replace("*", "", regex=False)
-# 新增欄位
 SO["Qty(+)"] = "0"
 SO["Remark"] = ""
-# 格式化日期欄位
 for col in ["Order Date", "Ship Date"]:
     SO[col] = pd.to_datetime(SO[col], errors="coerce").dt.strftime("%Y/%m/%d")
-# 重新排列欄位
-SO = SO[['Order Date', 'Ship Date', 'QB Num', "P. O. #", "Name",'Qty(+)', 'Qty(-)', 'Item', 'Inventory Site', 'Remark']]
+SO['Pre/Bare'] = "Out"
+SO = SO[['Order Date', 'Ship Date', 'QB Num', "P. O. #", "Name",'Qty(+)', 'Qty(-)', 'Item', 'Inventory Site', 'Remark', 'Pre/Bare']]
 SO.to_csv('open sales2.csv',index=False,columns =SO)
 
 #"POD"
-pod = pd.read_csv("open purchase orders.csv", encoding='utf-8')
+pod = pd.read_csv("open purchase orders.csv", encoding='utf-8', encoding_errors="replace")
 pod.drop(columns=['Name', 'Amount', 'Open Balance', "Rcv'd", "Qty", "Memo"], inplace=True)
 pod.rename(columns={"Date": "Order Date", "Num": "QB Num", "Source Name": "Name", "Backordered": "Qty(+)"}, inplace=True)
 pod.drop(pod.columns[0], axis=1, inplace=True)
