@@ -9,8 +9,6 @@ def to_date_str(s: pd.Series, fmt="%m-%d-%Y") -> pd.Series:
     s = pd.to_datetime(s, errors="coerce")
     return s.apply(lambda x: x.strftime(fmt) if pd.notnull(x) else "")
 
-
-
 EXCEL_PATH = r"20251002_LT.xlsx"  # adjust path as needed
 SHEET_NAME = "check"                        # sheet is lowercase
 
