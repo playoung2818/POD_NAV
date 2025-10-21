@@ -1,16 +1,5 @@
 SO NO.,QB Num,Item,Description,Ship Date,Qty(+),Pre/Bare
 LO25080011,For NTA_CoastIPC,RGS-8805GC,"Rugged and Compact AMD EPYC 7003/7002 ""MILAN/ROME"" Server Supporting RTX A5000/A6000 GPU, Two x16 PCIe Slots,  10G/1G Ethernet and 8~48V DC Input",2025/09/10,1,Bare
-SO25090156,POD-251280,Nuvo-10108GC-10G-i9IC-65W,"Nuvo-10108GC-10G, including  i9-13900E",2025/10/17,3,Pre
-SO25090201,POD-251291,Nuvo-10108GC-10G-i9IC-65W,"Nuvo-10108GC-10G, including  i9-13900E",2025/10/17,3,Pre
-SO25090246,POD-251303,Nuvo-9006LP-PoE-i5HC,"Nuvo-9006LP-PoE, I226 version, including  i5-12500TE",2025/10/17,6,Pre
-SO25090247,POD-251296,Nuvo-9006E-i9IC-65W,"Nuvo-9006E, I226 version, including  i9-13900E",2025/10/17,2,Pre
-SO25090279,POD-251311,Nuvo-10108GC-10G-i9IC14-65W-DS,"Nuvo-10108GC-10G, including  i9-14900",2025/10/17,6,Pre
-SO25090279,POD-251311,Nuvo-10108GC-i9IC14-65W-DS,"Nuvo-10108GC, including  i9-14900",2025/10/17,6,Pre
-SO25090449,POD-251366,PCIe-10G550X,2-port 10GbE Network Adapter,2025/10/17,5,Bare
-SO25090450,POD-251361,DINRAIL-O,DIN-Rail mounting assembly for Nuvo-1000/3000/5000/7000/9000/11000 series,2025/10/17,10,Bare
-SO25090321,POD-251328,Nuvo-9501,Intel® Alder Lake 12th-Gen Core™compact fanless computer with 2x GbE and 4x USB3.2.,2025/10/21,15,Bare
-SO25090321,POD-251328,PA-160W-OW,"160W AC-DC power Adapter, 20V 8A,  90~264VAC 127~370VDC, Open-Wire Terminal,30~+70°C, Non-CCC",2025/10/21,30,Bare
-SO25090345,POD-251330,Nuvo-9002LP,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 2x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, MezIO® Interface & 2.5” HDD tray",2025/10/21,12,Bare
 SO25090522,POD-251382,AC-IMX390-H120,"Sony IMX390 CMOS sensor camera; 1920x1080 @30fps; LFM; HFOV 120.6°; IP67+IP69K; -40°C to 85°C operating temperature; male FAKRA connector; active alignment; without lens cap, with updated FW to support LFM",2025/10/21,2,Bare
 SO25090522,POD-251382,AC-IMX390-H60,Sony IMX390 CMOS sensor camera; 1920x1080 @30fps; LFM; HFOV 63.9°; IP67+IP69K; -40°C to 85°C operating temperature; male FAKRA connector; active alignment; without lens cap,2025/10/21,1,Bare
 SO25090522,POD-251382,"FORWARDING CHARGE, EXCLUDING IMPORT DUTY.","Forwarding Charge, excluding import duty.",2025/10/21,1,Bare
@@ -23,7 +12,6 @@ SO25090098,POD-251261,CUSTOMER SERVICES,To產線：NTA預裝ubuntu訂單，請�
 SO25090224,POD-251301,Win10Pro-ENG64,Win PRO 10 64BIT ENGLISH 1PK DVD,2025/10/22,1,Bare
 SO25090238,POD-251305,Win10Pro-ENG64,Win PRO 10 64BIT ENGLISH 1PK DVD,2025/10/22,1,Bare
 SO25090318,POD-251333,POC-400,"Intel® ElkhartLake ultra-compact embedded controller with 1x 2.5GbE port, 2x PoE+ ports, 2x USB 3.0 ports and MezIO interface.",2025/10/22,10,Bare
-SO25090318,POD-251333,DDR4-32GB-WT32-SM,DDR4-3200 1.2V 32GB SO-DIMM -40~+85°C,2025/10/22,10,Bare
 SO25090318,POD-251333,M.280-SSD-1TB-SATA-TLCWT-IK,"M.2 SSD 1TB, Key B+M 2280, TLC,  SATA III, -40°C~+85°C, Innodisk",2025/10/22,9,Bare
 SO25090318,POD-251333,Win11IoT24-Entry,Win 11 IoT Ent 2024 LTSC Entry,2025/10/22,10,Bare
 SO25090318,POD-251333,MezIO-V20,16-mode ignition power control and 1x mini-PCIe socket (U2 only) MezIO module for Nuvo LP and POC series,2025/10/22,10,Bare
@@ -50,10 +38,10 @@ SO25090523,POD-251383,M.230-BTWIFI-AX210,"Intel AX210 802.11ac/a/b/d/e/g/h/i/k/n
 SO25090523,POD-251383,PCIe-PoE352at,2-port Intel® I350-AM2 server-grade Gigabit IEEE 802.3at PoE+ frame grabber card,2025/10/22,10,Bare
 SO25090523,POD-251383,MezIO-V20,16-mode ignition power control and 1x mini-PCIe socket (U2 only) MezIO module for Nuvo LP and POC series,2025/10/22,10,Bare
 SO25090523,POD-251383,Ant-RP_SMAM-WiFi-108MM,"WiFi Antenna, Swivel type, Frequency: 2.4/5.8 GHz, VSWR: 2.0 : 1 Max, with RP SMA (Male), Length: 108MM",2025/10/22,20,Bare
+SO25090386,POD-251346,Nuvo-9531-PoE-i9IC,"Nuvo-9531-PoE, including  i9-13900TE",2025/10/23,3,Pre
 SO25090524,POD-251384,POC-712,"Intel Atom x7425E Ultra-Compact Embedded Controller with 4x GbE, 4x USB 3.2 and MezIO Interface.",2025/10/22,6,Bare
 SO25090525,POD-251385,NRU-52S-NX16G,"NRU-52S-NX, including  GC-Jetson-NX16GB-Xavier-Nvidia",2025/10/22,3,Pre
 SO25090525,POD-251385,Wmkit-NRU-50,"Wall mounting kit for NRU-50 series, including wall mounting brackets and screws",2025/10/22,3,Bare
-SO25090526,POD-251403,DDR4-32GB-WT32-SM,DDR4-3200 1.2V 32GB SO-DIMM -40~+85°C,2025/10/22,10,Bare
 SO25090527,POD-251397,POC-751VTC,"Intel® Core™ i3-N305 Ultra-compact In-Vehicle Computer with 4x PoE+, HDMI, SocketCAN, and mPCIe for WIFI/ 4G/ 5G Modules.",2025/10/22,1,Bare
 SO25100015,POD-251395,NRU-230V-AWP-JAO64G,"NRU-230V-AWP, including  GC-Jetson-AGX64GB-Orin-Nvidia-JetPack-6.0, M.280-SSD-2TB-PCIe44-TLC5WT-TD",2025/10/22,8,Pre
 SO25100015,POD-251395,AC-IMX390-H190,Sony IMX390 CMOS sensor camera; 1920x1080 @30fps; LFM; HFOV 186°; IP67+IP69K; -40°C to 85°C operating temperature; male FAKRA connector; active alignment; without lens cap,2025/10/22,12,Bare
@@ -70,14 +58,12 @@ SO25100034,POD-251405,M.280-SSD-1TB-PCIe44-TLC5-PN,"M.2 SSD 1TB, Key M 2280, TLC
 SO25100034,POD-251405,Extnd-mPCIeHS,Sparklan Half Mini-PCIe Extender,2025/10/22,10,Bare
 SO25100034,POD-251405,Risr-M2B-mPCIe-SIMslot,NGFF M.2 key B to mini-PCIe adapter include SIM slot for NTA,2025/10/22,10,Bare
 SO25100034,POD-251405,Cbl-MHF4-SMAF-30CM,"LTE Internal Cable, IPEX MHF4(Female) to SMA(Female), for M.2 module, Length: 30CM",2025/10/22,25,Bare
-SO25100035,POD-251406,i7-9700TE,"Intel® Core™ i7-9700TE Processor (12M Cache, up to 3.80 GHz), TDP:35W CPU, installation and burn in test included",2025/10/22,5,Bare
-SO25100035,POD-251406,CUSTOMER SERVICES,To理貨：請協助確認CPU產地非中國製,2025/10/22,5,Bare
 SO25100056,POD-251416,PCIe-USB381F,8-Port USB 3.1 Gen1 host adapter card with 4x independent USB 3.1 controllers,2025/10/22,10,Bare
 SO25100056,POD-251416,Cbl-MHF4-RP_SMAF-30CM,"Wifi Internal Cable, IPEX MHF4(Female) to RP SMA(Female), for M.2 module, Length: 30CM",2025/10/22,20,Bare
 SO25100056,POD-251416,Cbl-MHF-RP_SMAF-15CM,"WiFi Internal Cable,  I-PEX MHF(Female) to RP SMA(Female), 1.13 coaxial cable, Length: 15CM",2025/10/22,10,Bare
 SO25100056,POD-251416,SSD-512GB-TLC5WT-TD,"2.5"" SATA SSD 512GB TLCWT ,-40°C~+85°C,Transcend",2025/10/22,10,Bare
 SO25100056,POD-251416,Cbl-M12A8M-U2TA-180CM,"Waterproof M12 (8-pole-A-coded) w/ copper shielding  to USB 2.0 type A (female), Length: 180CM",2025/10/22,3,Bare
-SO25100056,POD-251416,M.242-SSD-128GB-PCIe34-TLC5WT-T,"M.2 SSD 128GB, Key M 2242, TLC, NVMe PCIe Gen 3x4, -40°C~+85°C, Transcend.",2025/10/22,1,Bare
+SO25100056,POD-251416,M.242-SSD-128GB-PCIe34-TLC5WT-TD,"M.2 SSD 128GB, Key M 2242, TLC, NVMe PCIe Gen 3x4, -40°C~+85°C, Transcend.",2025/10/22,1,Bare
 SO25100056,POD-251416,Cbl-DB9F-2DB9M-15CM,"DB9 Female w/Screw to 2x DB9 Male w/Screw, 28AWG, -20°C to +80°C, Length:15CM",2025/10/22,1,Bare
 SO25100058,POD-251418,Nuvo-7006LP-PoE,"Intel® Coffee Lake  8th-Gen Core™ i fanless embedded controller with 6x GbE, MezIO interface and low-profile chassis, with optional IEEE 802.3at PoE+.",2025/10/22,4,Bare
 SO25100058,POD-251418,Dmpbr-Nuvo5000_7000,Damping bracket assembly for Nuvo-5000/7000/9000/11000 series,2025/10/22,5,Bare
@@ -89,15 +75,14 @@ SO25100073,POD-251426,CUSTOMER SERVICES,To理貨：請協助確認CPU產地非�
 SO25100091,POD-251429,M.242-SSD-512GB-PCIe34-TLC5WT-TD,"M.2 SSD 512GB, Key M 2242, TLC, NVMe PCIe Gen 3x4, -40°C~+85°C, Transcend.",2025/10/22,2,Bare
 SO25100189,POD-251443,POC-40+,"Intel® Elkhart Lake x6413E Extreme-compact IOT Gateway Computer with 2x GbE, 2x USB 3.1 and 1x isolated RS422/485",2025/10/22,6,Bare
 SO25100195,POD-251444,AccsyBx-FAN-Nuvo9531_9501,"Fan assembly for Nuvo-9531 series, 92x92x25 mm",2025/10/22,15,Bare
-SO25100195,POD-251444,AccsyBx-Cardholder-10108GC-5080,"Nuvo-10108GC GPU bracket kit for MSI RTX 5080,5070,5070Ti Ventus 3X",2025/10/22,5,Bare
+SO25100195,POD-251444,AccsyBx-Cardholder-10108GC-5080_70_70Ti,"Nuvo-10108GC GPU bracket kit for MSI RTX 5080,5070,5070Ti Ventus 3X",2025/10/22,5,Bare
 SO25100195,POD-251444,Cblkit-PWR-1000WMW,"PA-1000W-MW power cable kit, include 6 cord end terminal cable for adapter to terminal block for Nuvo-8208GC",2025/10/22,5,Bare
 SO25100195,POD-251444,i7-9700TE,"Intel® Core™ i7-9700TE Processor (12M Cache, up to 3.80 GHz), TDP:35W CPU, installation and burn in test included",2025/10/22,10,Bare
 SO25100195,POD-251444,CUSTOMER SERVICES,To理貨：請協助確認CPU產地非中國製,2025/10/22,10,Bare
 SO25080383,POD-251193,Nuvo-5608VR-i7QC-65W,"Nuvo-5608VR, including  i7-6700",2025/10/23,1,Pre
 SO25090381,POD-251342,NRU-240S-AWP-JAO64G-CA03,"NRU-240S-AWP, including  GC-Jetson-AGX64GB-Orin-Nvidia-JetPack-6.0, M.280-SSD-512GB-PCIe44-TLC5WT-TD",2025/10/23,1,Pre
-SO25090381,POD-251342,Cblkit-FP-NRU-230V-AWP_NRU-240S,"NRU-230V-AWP or NRU-240S-AWP front panel cable kit, including: 1x Cbl-TpCPlug-UTpCF-50CM, 1x Cbl-M12A8M-2U2TA-180CM1, 3x Cbl-M12A8M-2DB9M_OW2-180CM, 5x Cbl-M12X8M-RJ45F-100CM",2025/10/23,1,Bare
+SO25090381,POD-251342,Cblkit-FP-NRU-230V-AWP_NRU-240S-AWP,"NRU-230V-AWP or NRU-240S-AWP front panel cable kit, including: 1x Cbl-TpCPlug-UTpCF-50CM, 1x Cbl-M12A8M-2U2TA-180CM1, 3x Cbl-M12A8M-2DB9M_OW2-180CM, 5x Cbl-M12X8M-RJ45F-100CM",2025/10/23,1,Bare
 SO25090384,POD-251343,POC-300,"Intel® ApolloLake Atom™ E3950 ultra-compact embedded controller with 1x GbE port, 2x IEEE 802.3at PoE+ ports, 2x USB 3.0 ports and MezIO interface.",2025/10/23,4,Bare
-SO25090386,POD-251346,Nuvo-9531-PoE-i9IC,"Nuvo-9531-PoE, including  i9-13900TE",2025/10/23,3,Pre
 SO25090404,POD-251355,Miokit-D220-POC400,"MezIO-D220-50 kits, 8-CH isolated DI and 8-CH isolated DO, with POC-400 series Back Panel, and Screw",2025/10/23,4,Bare
 SO25090405,POD-251357,POC-330,"Intel® ApolloLake Pentium™ N4200 ultra-compact embedded controller with 3x GbE ports, 2x USB 3.0 ports and MezIO interface.",2025/10/23,4,Bare
 SO25090502,POD-251374,Nuvo-9531-PoE-i3QC,"Nuvo-9531-PoE, including  i3-12100TE",2025/10/23,5,Pre
@@ -115,11 +100,15 @@ SO25100070,POD-251413,Nuvo-9204VTC-i9IC-65W,"Intel® 14th/13th/12th-Gen Core™ 
 SO25100070,POD-251413,i9-13900E,"Intel® Core™ i9-13900E Processor (36M Cache, up to 5.20 GHz), TDP:65W CPU, installation and burn in test included",2025/10/23,3,Bare
 SO25100071,POD-251414,Nuvo-9531-PoE-IGN-i9HC-65W,"Nuvo-9531-PoE-IGN, including  i9-12900E",2025/10/23,2,Pre
 SO25100096,POD-251415,Nuvo-5006LP-i7QC-65W,"Nuvo-5006LP, including  i7-6700",2025/10/23,1,Pre
-SO25090519,POD-251380,Nuvo-10208GC,"Nuvo-10208GC, including  2x GC-RTX2000Ada-Nvidia",2025/10/29,1,Pre
-SO25100059,POD-251419,SSD-Tray,2.5”SATA HDD Single Bay(7mm).,2025/10/29,5,Bare
-SO25080292,POD-251182,Cbl-M12A5F-OT2-B-Red-Fuse-100CM,"M12(5-pole-A-code Female) to 2P O terminal, w/FUSE, Length:100CM",2025/10/29,1,Bare
+SO25100218,POD-251448,POC-715-MB-A1,Tested PCBA POC-715,2025/10/29,2,Bare
+SO25100218,POD-251448,Nuvo-9002-MB-A2,Tested PCBA NVS-9002,2025/10/29,1,Bare
+SO25100219,POD-251449,Cbl-MHF-RP_SMAF-30CM,"WiFi Internal Cable,  I-PEX MHF(Female) to RP SMA(Female), 1.13 coaxial cable, Length: 30CM",2025/10/29,25,Bare
+SO25080292,POD-251182,Cbl-M12A5F-OT2-Black-Red-Fuse-100CM,"M12(5-pole-A-code Female) to 2P O terminal, w/FUSE, Length:100CM",2025/10/29,1,Bare
 SO25080339,POD-251191,Cbl-M12A8M-DB9F-180CM,"M12 A-Code 8P (male) to DB9 (Female), Length: 180CM",2025/10/29,2,Bare
 SO25080505,POD-251244,mPCIeHS-BTWifi-WT-6218,"802.11ac/a/b/g/n, 2T2R WiFi + BT4.2 half size mini-PCIe module, -40 ~ 85°C",2025/10/29,3,Bare
+SO25090321,POD-251328,Nuvo-9501,Intel® Alder Lake 12th-Gen Core™compact fanless computer with 2x GbE and 4x USB3.2.,2025/10/29,15,Bare
+SO25090321,POD-251328,PA-160W-OW,"160W AC-DC power Adapter, 20V 8A,  90~264VAC 127~370VDC, Open-Wire Terminal,30~+70°C, Non-CCC",2025/10/29,30,Bare
+SO25090345,POD-251330,Nuvo-9002LP,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 2x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, MezIO® Interface & 2.5” HDD tray",2025/10/29,12,Bare
 SO25090433,POD-251363,NRU-171V-PPC-JON16-CERL01,"NRU-171V-PPC-JON16-NS, including  GC-Jetson-NX16G-Orin-Nvidia-JetPack 6.0, M.242-SSD-1TB-PCIe34-TLC5WT-TD, E-mPCIe-BTWifi-WT-6218_Mod_15CM, FPnl-3Ant-NRU-170-PPC series",2025/10/29,1,Pre
 SO25090433,POD-251363,Cblkit-NRU-171V-PPC,"NRU-171V-PPC cable kit, including 6xCbl-FAKRA-ZFM-ZFM-12M, 1xCbl-M12X8M-RJ45F-100CM, 1xCbl-M12A8M-2U2TA-180CM, 1xCbl-M12A8M-2DB9M_OW2-180CM1",2025/10/29,1,Bare
 SO25090508,POD-251378,POC-465AWP,"POC-465AWP, including  DDR4-32GB-WT32-SM, M.280-SSD-1TB-SATA-TLC5WT-TD",2025/10/29,7,Pre
@@ -129,13 +118,12 @@ SO25090508,POD-251378,CUSTOMER SERVICES,OS-Linux Ubuntu-22.04 桌面版,2025/10/
 SO25090508,POD-251378,CUSTOMER SERVICES,OS-Linux Ubuntu- 請將NTA訂單帳號預設為neousys，密碼為neo，並選擇默認登入,2025/10/29,7,Bare
 SO25090508,POD-251378,CUSTOMER SERVICES,Label-NTA預裝ubuntu訂單，請貼上標籤-Password:neo，於機器標籤下方，如附件,2025/10/29,7,Bare
 SO25090508,POD-251378,CUSTOMER SERVICES,To產線：請協助將機器與930-CK000005-000|930-WM000010-000配對包裝,2025/10/29,7,Bare
+SO25090519,POD-251380,Nuvo-10208GC,"Nuvo-10208GC, including  2x GC-RTX2000Ada-Nvidia",2025/10/29,1,Pre
 SO25100033,POD-251404,Cbl-M12A5F-OT2-B-Red-Fuse-100CM,"M12(5-pole-A-code Female) to 2P O terminal, w/FUSE, Length:100CM",2025/10/29,4,Bare
 SO25100034,POD-251405,mPCIeHS-BTWifi-WT-6218,"802.11ac/a/b/g/n, 2T2R WiFi + BT4.2 half size mini-PCIe module, -40 ~ 85°C",2025/10/29,10,Bare
-SO25100035,POD-251406,Nuvo-7200VTC,"Intel® 8th-Gen Core™ in-vehicle controller with 4x M12 PoE+ ports, DIO, CAN bus and RAID, single-slot PCI Express Cassette.",2025/10/29,5,Bare
 SO25100045,POD-251408,M.280-SSD-128GB-SATA-TLC5WT-TD,"M.2 SSD 128GB, Key B+M 2280, TLC, SATA III, -40°C~+85°C, Transcend",2025/10/29,5,Bare
-SO25100045,POD-251408,M.280-SSD-256GB-PCIe44-TLC5WT-T,"M.2 SSD 256GB, Key M 2280, TLC, NVMe PCIe Gen 4x4, -40°C~+85°C, Transcend.",2025/10/29,17,Bare
+SO25100045,POD-251408,M.280-SSD-256GB-PCIe44-TLC5WT-TD,"M.2 SSD 256GB, Key M 2280, TLC, NVMe PCIe Gen 4x4, -40°C~+85°C, Transcend.",2025/10/29,17,Bare
 SO25100045,POD-251408,M.280-SSD-2TB-PCIe44-TLC5ET-TD,"M.2 SSD 2TB, Key M 2280, TLC, NVMe PCIe Gen 4x4, -20°C~+75°C, Transcend.",2025/10/29,3,Bare
-SO25100045,POD-251408,M.280-SSD-2TB-PCIe44-TLC5WT-TD,"M.2 SSD 2TB, Key M 2280, TLC, NVMe PCIe Gen 4x4, -40°C~+85°C, Transcend.",2025/10/29,2,Bare
 SO25100045,POD-251408,SSD-2TB-TLC5ET-TD,"2.5"""" SATA SSD 2TB TLC, -20°C~+75°C,Transcend",2025/10/29,6,Bare
 SO25100045,POD-251408,SSD-2TB-TLC5WT-TD,"2.5"" SATA SSD 2TB TLCWT ,-40°C~+85°C,Transcend",2025/10/29,6,Bare
 SO25100045,POD-251408,SSD-512GB-TLC5WT-TD,"2.5"" SATA SSD 512GB TLCWT ,-40°C~+85°C,Transcend",2025/10/29,7,Bare
@@ -143,6 +131,7 @@ SO25100048,POD-251398,Nuvo-9006LP,"Intel® 14th/ 13th/12th -Gen Core™ Rugged E
 SO25100049,POD-251399,Nuvo-9006LP,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, MezIO® Interface & 2.5” HDD tray",2025/10/29,2,Bare
 SO25100057,POD-251417,M.242-BTWifi-WT-262A,"Sparklan 802.11ac/a/b/g/n, 2T2R WiFi + BT5 M.2 2240 module, -40 ~ 85°C",2025/10/29,1,Bare
 SO25100057,POD-251417,Cbl-MHF-SMAF-30CM1,"LTE Internal Cable, I-PEX MHF(Female) to SMA (Female), 1.13 coaxial cable, Length: 30CM",2025/10/29,1,Bare
+SO25100059,POD-251419,SSD-Tray,2.5”SATA HDD Single Bay(7mm).,2025/10/29,5,Bare
 SO25100074,POD-251427,SEMIL-1708-E2278GE,"SEMIL-1708, including  E-2278GE, 2x DDR4-32GB-WT32-SM, SSD-1TB-TLC5WT-TD",2025/10/29,2,Pre
 SO25100074,POD-251427,Cblkit-M12-SEMIL1708,"SEMIL-1708 M12 cable kit, including 8x Cbl-M12X8M-RJ45-CAT6A-500CM, 2x Cbl-M12A8M-2U2TA-180CM, 1x Cbl-M12A17M-VGA-180CM, 1x Cbl-M12A8M-2DB9M_OW2-180CM1, 1x Cbl-M12S4F-OW4-180CM1",2025/10/29,2,Bare
 SO25100074,POD-251427,CUSTOMER SERVICES,To產線：請與機器配對包裝,2025/10/29,2,Bare
@@ -164,39 +153,52 @@ SO25090503,POD-251375,Nuvo-9531-i3QC,"Nuvo-9531, including  i3-12100TE",2025/10/
 SO25100103,POD-251422,Nuvo-9006E-PoE-i9IC-65W-CA01-65,"Nuvo-9006E-PoE, I226 version, including  i9-13900E",2025/10/31,10,Pre
 SO25100150,POD-251437,PCIe-PoE550X,2-port 10GbE Network Adapter with IEEE 802.3at PoE+ Capability,2025/10/31,9,Bare
 SO25100150,POD-251437,PCIe-10G550X,2-port 10GbE Network Adapter,2025/10/31,4,Bare
-SO25100143,POD-251433,Nuvo-8108GC-QD-A6,"Industrial-grade edge AI platform supporting NVIDIA® Quadro RTX 4000, RTX A4000 and RTX A5000  GPU Card, Intel® Xeon® E and 9th/ 8th-Gen Core™ processor with 8~48V wide-range DC input.",2025/11/05,3,Bare
-SO25100143,POD-251433,E-2278GE,"Intel® Xeon E-2278GE Processor (16M Cache, up to 4.70 GHz), TDP:80W CPU, installation and burn in test included",2025/11/05,3,Bare
-SO25100143,POD-251433,CUSTOMER SERVICES,To理貨：請協助確認CPU產地非中國製,2025/11/05,3,Bare
+SO25090323,POD-251326,POC-400-CA140,"Intel® ElkhartLake ultra-compact embedded controller with 1x 2.5GbE port, 2x PoE+ ports, 2x USB 3.0 ports and MezIO interface.",2025/11/03,70,Bare
+SO25090323,POD-251326,Miokit-R12-POC300,"MezIO-R12-50 kits, 1x 2.5” SATA HDD/SSD, 4-CH isolated DI, 4-CH isolated DO, including POC-300 series Back Panel and Screw",2025/11/03,40,Bare
+SO25090327,POD-251327,Wmkit-V-POC300_400,"Wall mounting assembly for POC-300, POC-400, POC-40 series, vertical type",2025/11/03,70,Bare
+SO25090327,POD-251327,Wmkit-H-POC300_400,"Wall mounting assembly for POC-300, POC-400 series, horizontal type",2025/11/03,40,Bare
+SO25100196,POD-251445,Nuvo-7501,Intel® 8th-Gen Coffee Lake Core™ i7/i5/i3 compact fanless embedded computer with 2xGbE and 4xCOM.,2025/11/05,8,Bare
+SO25100196,POD-251445,Nuvo-7501,Intel® 8th-Gen Coffee Lake Core™ i7/i5/i3 compact fanless embedded computer with 2xGbE and 4xCOM.,2025/11/05,2,Bare
+SO25100196,POD-251445,Nuvo-9006LP,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, MezIO® Interface & 2.5” HDD tray",2025/11/05,6,Bare
+SO25100196,POD-251445,i7-14700,"Intel® Core™ i7-14700 Processor (33M Cache, up to 5.40 GHz), TDP:65W CPU, installation and burn in test included",2025/11/05,6,Bare
+SO25100196,POD-251445,CUSTOMER SERVICES,To理貨：請協助確認CPU產地非中國製,2025/11/05,6,Bare
+SO25100219,POD-251449,PB-9250J-SA,Intelligent ultracapacitor-based power backup standalone module with 9250 watt-second energy capacity,2025/11/05,6,Bare
+SO25100220,POD-251450,Nuvo-7006LP,"Intel® Coffee Lake  8th-Gen Core™ i fanless embedded controller with 6x GbE, MezIO interface and low-profile chassis.",2025/11/05,10,Bare
+SO25100220,POD-251450,M.280-SSD-512GB-PCIe44-TLC5WT-TD,"M.2 SSD 512GB, Key M 2280, TLC, NVMe PCIe Gen 4x4, -40°C~+85°C, Transcend.",2025/11/05,10,Bare
+SO25100239,POD-251455,POC-545,"AMD Ryzen™ embedded V1807B ultra-compact embedded controller with  4x PoE+ ports, 4x USB 3.0 ports and MezIO™ interface.",2025/11/05,11,Bare
+SO25100317,POD-251473,Nuvo-9208VTC,"Intel® 14th/13th/12th-Gen Core™ In-Vehicle Computer (I226 version) with 8x RJ45 PoE+ ports, USB 3.2 Type-C, DIO, CAN bus and RAID. Patented Cassette for PCIe add-on card accommodation.(ALC888S Audio & EN45545)",2025/11/05,15,Bare
 SO25080293,POD-251183,NRU-222S-UBER(EA),"NRU-222S, including GC-Jetson-AGX32GB-Orin-Nvidia, M.280-SSD-1TB-PCIe44-TLC5WT-TD, M.230-BTWIFI-AX210, mPCIe-M2E, 2x Cbl-MHF4-RP_SMAF-30CM, M.2-LTE-7455, Risr-M2B-mPCIe-SIMslot, 3x Cbl-MHF4-SMAF-30CM",2025/11/05,25,Pre
 SO25080293,POD-251183,Ant-RP_SMAM-WiFi-196MM1,"WiFi Antenna, Swivel type, Frequency: 2.4/5.8 GHz, VSWR: 2.5 : 1 Max, with RP SMA (Male), Length: 196MM",2025/11/05,50,Bare
 SO25080293,POD-251183,Ant-SMAM-LTE,"LTE Antenna, Frequency: 698-960, 1710-2170, 2300-2700MHz, VSWR: 4.0 : 1 Max, Polarization: Linear, Vertical, with SMA(Male)",2025/11/05,50,Bare
-SO25080293,POD-251183,Cbl-M12A5F-OT2-B-Red-Fuse-100CM,"M12(5-pole-A-code Female) to 2P O terminal, w/FUSE, Length:100CM",2025/11/05,25,Bare
+SO25080293,POD-251183,Cbl-M12A5F-OT2-Black-Red-Fuse-100CM,"M12(5-pole-A-code Female) to 2P O terminal, w/FUSE, Length:100CM",2025/11/05,25,Bare
 SO25080293,POD-251183,CUSTOMER SERVICES,To產線：請將機器與398-A5231196-073|398-A2161163-091|39D-M1152100-004配對包裝,2025/11/05,25,Bare
+SO25100240,POD-251432,CUSTOMER SERVICES,To產線：請協助將機器與393-D1131150-134配對包裝,2025/12/17,2,Bare
 SO25080294,POD-251184,NRU-222S-UBER(EA),"NRU-222S, including GC-Jetson-AGX32GB-Orin-Nvidia, M.280-SSD-1TB-PCIe44-TLC5WT-TD, M.230-BTWIFI-AX210, mPCIe-M2E, 2x Cbl-MHF4-RP_SMAF-30CM, M.2-LTE-7455, Risr-M2B-mPCIe-SIMslot, 3x Cbl-MHF4-SMAF-30CM",2025/11/05,20,Pre
 SO25080294,POD-251184,Ant-RP_SMAM-WiFi-196MM1,"WiFi Antenna, Swivel type, Frequency: 2.4/5.8 GHz, VSWR: 2.5 : 1 Max, with RP SMA (Male), Length: 196MM",2025/11/05,40,Bare
 SO25080294,POD-251184,Ant-SMAM-LTE,"LTE Antenna, Frequency: 698-960, 1710-2170, 2300-2700MHz, VSWR: 4.0 : 1 Max, Polarization: Linear, Vertical, with SMA(Male)",2025/11/05,40,Bare
-SO25080294,POD-251184,Cbl-M12A5F-OT2-B-Red-Fuse-100CM,"M12(5-pole-A-code Female) to 2P O terminal, w/FUSE, Length:100CM",2025/11/05,20,Bare
+SO25080294,POD-251184,Cbl-M12A5F-OT2-Black-Red-Fuse-100CM,"M12(5-pole-A-code Female) to 2P O terminal, w/FUSE, Length:100CM",2025/11/05,20,Bare
 SO25080294,POD-251184,CUSTOMER SERVICES,To產線：請將機器與398-A5231196-073|398-A2161163-091|39D-M1152100-004配對包裝,2025/11/05,20,Bare
 SO25090277,POD-251308,Nuvo-10007-i7IC-65W-DS-CTI-01,"Nuvo-10007-CTI, including  i7-14700, 2x DDR5-32GB-56WT-SM, and 2x SSD-512GB-TLC5WT-TD",2025/11/05,1,Pre
 SO25090277,POD-251308,CUSTOMER SERVICES,To產線：請協助製作1GbE port MAC address Label，貼在Product Label下方,2025/11/05,1,Bare
+SO25100143,POD-251433,Nuvo-8108GC-QD-A6,"Industrial-grade edge AI platform supporting NVIDIA® Quadro RTX 4000, RTX A4000 and RTX A5000  GPU Card, Intel® Xeon® E and 9th/ 8th-Gen Core™ processor with 8~48V wide-range DC input.",2025/11/05,3,Bare
+SO25100143,POD-251433,E-2278GE,"Intel® Xeon E-2278GE Processor (16M Cache, up to 4.70 GHz), TDP:80W CPU, installation and burn in test included",2025/11/05,3,Bare
+SO25100143,POD-251433,CUSTOMER SERVICES,To理貨：請協助確認CPU產地非中國製,2025/11/05,3,Bare
 SO25040359,POD-250574,Engineer Service- COS,Certification charges for Nuvo-9000-AUT models,2025/11/07,1,Bare
 SO25040360,POD-250575,Engineer Service- COS,Certification Charge for POC-410-AUT models,2025/11/07,1,Bare
-SO25090323,POD-251326,POC-400-CA140,"Intel® ElkhartLake ultra-compact embedded controller with 1x 2.5GbE port, 2x PoE+ ports, 2x USB 3.0 ports and MezIO interface.",2025/11/07,70,Bare
-SO25090323,POD-251326,Miokit-R12-POC300,"MezIO-R12-50 kits, 1x 2.5” SATA HDD/SSD, 4-CH isolated DI, 4-CH isolated DO, including POC-300 series Back Panel and Screw",2025/11/07,40,Bare
 SO25090323,POD-251326,Miokit-R12-POC300,"MezIO-R12-50 kits, 1x 2.5” SATA HDD/SSD, 4-CH isolated DI, 4-CH isolated DO, including POC-300 series Back Panel and Screw",2025/11/07,100,Bare
 SO25090327,POD-251327,Wmkit-V-POC300_400,"Wall mounting assembly for POC-300, POC-400, POC-40 series, vertical type",2025/11/07,70,Bare
-SO25090327,POD-251327,Wmkit-V-POC300_400,"Wall mounting assembly for POC-300, POC-400, POC-40 series, vertical type",2025/11/07,70,Bare
-SO25090327,POD-251327,Wmkit-H-POC300_400,"Wall mounting assembly for POC-300, POC-400 series, horizontal type",2025/11/07,40,Bare
 SO25090327,POD-251327,Wmkit-H-POC300_400,"Wall mounting assembly for POC-300, POC-400 series, horizontal type",2025/11/07,100,Bare
-SO25100035,POD-251406,M.2-CAN-B2S1,"M.2 2280, PCIe, Dual CANbus 2.0B, Isolation,-40°C~+85°C",2025/11/07,5,Bare
 SO25100103,POD-251422,Nuvo-9006E-PoE-i9IC-65W-CA01-65,"Nuvo-9006E-PoE, I226 version, including  i9-13900E",2025/11/07,25,Pre
 SO25100104,POD-251424,Nuvo-9006E-i5HC-65W,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, single-slot PCIe Cassette & MezIO® Interface",2025/11/07,5,Bare
 SO25100104,POD-251424,i5-12500E,"Intel® Core™ i5-12500E Processor (18M Cache, up to 2.90 GHz), TDP:65W CPU, installation and burn in test included",2025/11/07,5,Bare
 SO25100104,POD-251424,Nuvo-9006E-PoE-i5HC,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, single-slot PCIe Cassette & MezIO® Interface, with optional IEEE 802.3at PoE+.",2025/11/07,5,Bare
 SO25100104,POD-251424,i5-12500TE,"Intel® Core™ i5-12500TE Processor (18M Cache, up to 4.30 GHz), TDP:35W CPU, installation and burn in test included",2025/11/07,5,Bare
+SO25100220,POD-251450,i7-9700E,"Intel® Core™ i7-9700E Processor (12M Cache, up to 4.40 GHz), TDP:65W CPU, installation and burn in test included",2025/11/12,10,Bare
+SO25100220,POD-251450,CUSTOMER SERVICES,To理貨：請協助確認CPU產地非中國製,2025/11/12,10,Bare
 SO25090257,POD-251317,M.280-SSD-512GB-PCIe44-TLC5-PN,"M.2 SSD 512GB, Key M 2280, TLC, NVMe PCIe Gen 4x4, 0°C~+70°C, Phison.",2025/11/12,5,Bare
 SO25090274,POD-251322,M.280-SSD-512GB-PCIe44-TLC5-PN,"M.2 SSD 512GB, Key M 2280, TLC, NVMe PCIe Gen 4x4, 0°C~+70°C, Phison.",2025/11/12,2,Bare
 SO25090526,POD-251403,DDR4-32GB-WT32-SM,DDR4-3200 1.2V 32GB SO-DIMM -40~+85°C,2025/11/12,34,Bare
+SO25100045,POD-251408,M.280-SSD-2TB-PCIe44-TLC5WT-TD,"M.2 SSD 2TB, Key M 2280, TLC, NVMe PCIe Gen 4x4, -40°C~+85°C, Transcend.",,2,Bare
 SO25100102,POD-251420,Nuvo-9006E-PoE-i9IC14-65W-DS,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, single-slot PCIe Cassette & MezIO® Interface, with optional IEEE 802.3at PoE+.",2025/11/14,5,Bare
 SO25100102,POD-251420,i9-14900,"Intel® Core™ i9-14900 Processor (36M Cache, up to 5.80 GHz), TDP:65W CPU, installation and burn in test included.",2025/11/14,5,Bare
 SO25100105,POD-251425,Nuvo-9006E-i5HC-65W,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, single-slot PCIe Cassette & MezIO® Interface",2025/11/14,5,Bare
@@ -214,6 +216,17 @@ SO25100145,POD-251434,Nuvo-9501-IPC200,Intel® Alder Lake 12th-Gen Core™compac
 SO25100145,POD-251434,PA-160W-OW,"160W AC-DC power Adapter, 20V 8A,  90~264VAC 127~370VDC, Open-Wire Terminal,30~+70°C, Non-CCC",2025/11/19,50,Bare
 SO25070448,POD-251047,POC-551VTC-GLE150-FP,"AMD Ryzen™ V1000 Ultra-compact In-vehicle Controller with PoE+, DIO and Isolated CAN bus.",2025/11/21,24,Bare
 SO25070448,POD-251047,AccsyBx-6AntiVG-POC-551VTC,"Accessory box kit including Anti-Vibrate Grommet*6,Screw*6 and pizza box for POC-551VTC",2025/11/21,24,Bare
+SO25100105,POD-251425,Nuvo-9006E-PoE-i5HC,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, single-slot PCIe Cassette & MezIO® Interface, with optional IEEE 802.3at PoE+.",2025/11/21,5,Bare
+SO25100105,POD-251425,i5-12500TE,"Intel® Core™ i5-12500TE Processor (18M Cache, up to 4.30 GHz), TDP:35W CPU, installation and burn in test included",2025/11/21,5,Bare
+SO25100223,POD-251452,NRU-220S-JAO64G,"NRU-220S, including  GC-Jetson-AGX64GB-Orin-Nvidia-JetPack-6.0",2025/11/21,6,Pre
+SO25090509,POD-251379,POC-465AWP,"POC-465AWP, including  DDR4-32GB-WT32-SM, M.280-SSD-1TB-SATA-TLC5WT-TD",2025/11/26,12,Pre
+SO25090509,POD-251379,POC-465AWP,"POC-465AWP, including  DDR4-32GB-WT32-SM, M.280-SSD-1TB-SATA-TLC5WT-TD",2025/11/26,18,Pre
+SO25090509,POD-251379,Cblkit-M12-POC-465AWP,"POC-465AWP M12 cable kit, including 2x Cbl-M12X8M-RJ45F-100CM, 1x Cbl-M12A8M-2U2TA-180CM1, 1x Cbl-M12A17M-VGA-180CM2, 1x Cbl-M12A8M-2DB9M-180CM, 1x Cbl-M12A5F-OW3-180CM",2025/11/26,30,Bare
+SO25090509,POD-251379,Wmkit-POC465AWP,Wall mounting assembly for POC-465AWP,2025/11/26,30,Bare
+SO25090509,POD-251379,CUSTOMER SERVICES,OS-Linux Ubuntu-22.04 桌面版,2025/11/26,30,Bare
+SO25090509,POD-251379,CUSTOMER SERVICES,OS-Linux Ubuntu- 請將NTA訂單帳號預設為neousys，密碼為neo，並選擇默認登入,2025/11/26,30,Bare
+SO25090509,POD-251379,CUSTOMER SERVICES,Label-NTA預裝ubuntu訂單，請貼上標籤-Password:neo，於機器標籤下方，如附件,2025/11/26,30,Bare
+SO25090509,POD-251379,CUSTOMER SERVICES,To產線：請協助將機器與930-CK000005-000|930-WM000010-000配對包裝,2025/11/26,30,Bare
 SO25090508,POD-251378,POC-465AWP,"POC-465AWP, including  DDR4-32GB-WT32-SM, M.280-SSD-1TB-SATA-TLC5WT-TD",2025/11/26,3,Pre
 SO25090508,POD-251378,Cblkit-M12-POC-465AWP,"POC-465AWP M12 cable kit, including 2x Cbl-M12X8M-RJ45F-100CM, 1x Cbl-M12A8M-2U2TA-180CM1, 1x Cbl-M12A17M-VGA-180CM2, 1x Cbl-M12A8M-2DB9M-180CM, 1x Cbl-M12A5F-OW3-180CM",2025/11/26,3,Bare
 SO25090508,POD-251378,Wmkit-POC465AWP,Wall mounting assembly for POC-465AWP,2025/11/26,3,Bare
@@ -221,11 +234,11 @@ SO25090508,POD-251378,CUSTOMER SERVICES,OS-Linux Ubuntu-22.04 桌面版,2025/11/
 SO25090508,POD-251378,CUSTOMER SERVICES,OS-Linux Ubuntu- 請將NTA訂單帳號預設為neousys，密碼為neo，並選擇默認登入,2025/11/26,3,Bare
 SO25090508,POD-251378,CUSTOMER SERVICES,Label-NTA預裝ubuntu訂單，請貼上標籤-Password:neo，於機器標籤下方，如附件,2025/11/26,3,Bare
 SO25090508,POD-251378,CUSTOMER SERVICES,To產線：請協助將機器與930-CK000005-000|930-WM000010-000配對包裝,2025/11/26,3,Bare
+SO25100014,POD-251394,Nuvo-9006DE-PoE-UL,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, dual-slot PCIe Cassette & MezIO® Interface & UL certified, option of 802.3at PoE+ PSE for 2.5GbE port 3 ~ port 6.",2025/12/03,5,Bare
 SO25100016,POD-251396,SEMIL-1748GC-10G-L4-EL06,"SEMIL-1748GC-10G-L4-BSK, including  E-2278GE, DDR4-32GB-ECC26WT-DL, M.280-SSD-2TB-PCIe44-TLC5ET-TD, Cbl-W20F-M12A10F-40CM-IK-COM, mPCIe-CAN-IPEH-4047, mPCIe-COM-2RS232-X203, 4x Cbl-W5M-M12A5M-40CM-PK-CANFD-TP, DtC-M12-WP, 4x DtC-M12M-WP",2025/12/03,1,Pre
 SO25100016,POD-251396,CUSTOMER SERVICES,OS-Linux Ubuntu-22.04 桌面版,2025/12/03,1,Bare
 SO25100016,POD-251396,CUSTOMER SERVICES,OS-Linux Ubuntu- NTA訂單帳號預設為neousys/密碼為neo ，並選擇默認登入,2025/12/03,1,Bare
 SO25100016,POD-251396,CUSTOMER SERVICES,Label-NTA預裝ubuntu訂單，請貼上標籤-Password:neo，於機器標籤下方，如附件,2025/12/03,1,Bare
-SO25100014,POD-251394,Nuvo-9006DE-PoE-UL,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, dual-slot PCIe Cassette & MezIO® Interface & UL certified, option of 802.3at PoE+ PSE for 2.5GbE port 3 ~ port 6.",2025/12/03,5,Bare
 SO25090202,POD-251292,Nuvo-11006E-U9IC-35W-DS,"Nuvo-11006E, including  Core Ultra 9 285T",2025/12/05,2,Pre
 SO25090323,POD-251326,POC-400-CA140,"Intel® ElkhartLake ultra-compact embedded controller with 1x 2.5GbE port, 2x PoE+ ports, 2x USB 3.0 ports and MezIO interface.",2025/12/05,70,Bare
 SO25100096,POD-251415,Nuvo-8034-i7OCG9-65W-68,"Nuvo-8034, including  i7-9700E, Cbl-W6F-W6F-16CM1, Cbl-W6F-W8F-16CM1",2025/12/05,3,Pre
@@ -241,6 +254,9 @@ SO25080471,POD-251224,Nuvo-11531-PoE,"Intel® Core™ Ultra 200 Series Compact 
 SO25100146,POD-251435,Nuvo-9501-IPC200,Intel® Alder Lake 12th-Gen Core™compact fanless computer with 2x GbE and 4x USB3.2.,2025/12/10,50,Bare
 SO25100146,POD-251435,PA-160W-OW,"160W AC-DC power Adapter, 20V 8A,  90~264VAC 127~370VDC, Open-Wire Terminal,30~+70°C, Non-CCC",2025/12/10,50,Bare
 SO25100103,POD-251422,Nuvo-9006E-PoE-i9IC-65W-CA01-65,"Nuvo-9006E-PoE, I226 version, including  i9-13900E",2025/12/12,30,Pre
+SO25100240,POD-251432,POC-330-AEI01-100,"POC-330, including  DDR3L-4GB-WT18-DL1, mSATAHS-64GB-MLCWT-IK, Win10IoT19-Entry",2025/12/17,2,Pre
+SO25100240,POD-251432,Cbl-DB9F-3DB9M-15CM2,"1x DB9 (Female) to 3x DB9 (Male), for Nuvo-6000 series, Length: 15CM",2025/12/17,2,Bare
+SO25100240,POD-251432,CUSTOMER SERVICES,To產線：請不要安裝系統，但要貼附license,2025/12/17,2,Bare
 SO25050036,POD-250649,SEMIL-1708-i7OCG9-FF04,"SEMIL-1708-FF, including i7-9700TE, DDR4-16GB-32-SM and M.280-SSD-1TB-PCIe44-TLC5-PN",2025/12/17,10,Pre
 SO25050036,POD-250649,CUSTOMER SERVICES,To產線/包裝：請協助貼上客製標籤，詳見SOP,2025/12/17,10,Bare
 SO25050036,POD-250649,CUSTOMER SERVICES,To產線：須執行BIOS設定，請見SEMIL-1708-FF組裝SOP,2025/12/17,10,Bare
@@ -287,6 +303,7 @@ SO25090519,POD-251380,GC-RTX2000Ada-Nvidia,"NVIDIA RTX 2000  Ada Generation Grap
 SO25090115,POD-251229,Cbl-M12A8M-2DB9M_OW2-180CM1,"Cable 180cm, Waterproof M12 A-Code Male 8P to x2 DB9 Male+2P, 亞佳",,3,Bare
 SO25090117,POD-251228,Engineer Service- COS,"Engineer service for NRE, installation, integration, customizations, certification, etc. provided by supplier.",,1,Bare
 SO25090141,POD-251262,Engineer Service- COS,Engineer Service- COS,,1,Bare
+SO25090318,POD-251333,DDR4-32GB-WT32-SM,DDR4-3200 1.2V 32GB SO-DIMM -40~+85°C,,10,Bare
 SO25090451,POD-251369,SEMIL-2047GC-i9IC14-65W-DS,"SEMIL-2047GC, including  i9-14900, 2x DDR5-32GB-48WT-SM, M.280-SSD-4TB-PCIe4-TLCWT5-IK, Pnl-5Ant-SEMIL20, E-mPCIe-GPS-M800_Mod_40CM, E-mPCIe-BTWifi-WT-6218_Mod_40CM",,1,Pre
 SO25090451,POD-251369,Cbl-TpCPlug-DPM-1M,"TypeC Male Plug to DP Male Cable, Length : 1M",,2,Bare
 SO25090451,POD-251369,Cbl-TpCPlug-U3TA-50CM,"TypeC Male Plug to USB3.0 Type-A FML, Length: 50CM",,2,Bare
@@ -297,31 +314,37 @@ SO25090451,POD-251369,CUSTOMER SERVICES,OS-Linux Ubuntu-24.04 桌面版,,1,Bare
 SO25090451,POD-251369,CUSTOMER SERVICES,OS-Linux Ubuntu- NTA訂單帳號預設為neousys/密碼為neo，並選擇默認登入,,1,Bare
 SO25090451,POD-251369,CUSTOMER SERVICES,Label-NTA預裝ubuntu訂單，請貼上標籤-Password:neo，於機器標籤下方，如附件,,1,Bare
 SO25090451,POD-251369,CUSTOMER SERVICES,To產線：請協助將主機與所有配件配對包裝,,1,Bare
+SO25090526,POD-251403,DDR4-32GB-WT32-SM,DDR4-3200 1.2V 32GB SO-DIMM -40~+85°C,,10,Bare
 SO25100045,POD-251408,DDR5-8GB-56-SM,DDR5-5600 1.1V 8GB SO-DIMM 0~+85°C,,24,Bare
 SO25100045,POD-251408,DDR5-16GB-56-SM,DDR5-5600 1.1V 16GB SO-DIMM 0~+85°C,,34,Bare
-SO25100105,POD-251425,Nuvo-9006E-PoE-i5HC,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, single-slot PCIe Cassette & MezIO® Interface, with optional IEEE 802.3at PoE+.",,5,Bare
-SO25100105,POD-251425,i5-12500TE,"Intel® Core™ i5-12500TE Processor (18M Cache, up to 4.30 GHz), TDP:35W CPU, installation and burn in test included",,5,Bare
 SO25100147,POD-251436,Nuvo-9501-IPC200,Intel® Alder Lake 12th-Gen Core™compact fanless computer with 2x GbE and 4x USB3.2.,,100,Bare
 SO25100147,POD-251436,PA-160W-OW,"160W AC-DC power Adapter, 20V 8A,  90~264VAC 127~370VDC, Open-Wire Terminal,30~+70°C, Non-CCC",,100,Bare
-SO25100176,POD-251442,Nuvo-9208VTC-i9IC-65W-DD,"Nuvo-9208VTC, I226 version, including  i9-13900E",,20,Pre
-SO25100196,POD-251445,Nuvo-7501,Intel® 8th-Gen Coffee Lake Core™ i7/i5/i3 compact fanless embedded computer with 2xGbE and 4xCOM.,,8,Bare
-SO25100196,POD-251445,Nuvo-7501,Intel® 8th-Gen Coffee Lake Core™ i7/i5/i3 compact fanless embedded computer with 2xGbE and 4xCOM.,,2,Bare
-SO25100196,POD-251445,Nuvo-9006LP,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, MezIO® Interface & 2.5” HDD tray",,6,Bare
-SO25100196,POD-251445,i7-14700,"Intel® Core™ i7-14700 Processor (33M Cache, up to 5.40 GHz), TDP:65W CPU, installation and burn in test included",,6,Bare
-SO25100196,POD-251445,CUSTOMER SERVICES,To理貨：請協助確認CPU產地非中國製,,6,Bare
-SO25100218,POD-251448,POC-715-MB-A1,Tested PCBA POC-715,,2,Bare
-SO25100218,POD-251448,Nuvo-9002-MB-A2,Tested PCBA NVS-9002,,1,Bare
-SO25100219,POD-251449,Cbl-MHF-RP_SMAF-30CM,"WiFi Internal Cable,  I-PEX MHF(Female) to RP SMA(Female), 1.13 coaxial cable, Length: 30CM",,25,Bare
-SO25100219,POD-251449,PB-9250J-SA,Intelligent ultracapacitor-based power backup standalone module with 9250 watt-second energy capacity,,6,Bare
-SO25100220,POD-251450,Nuvo-7006LP,"Intel® Coffee Lake  8th-Gen Core™ i fanless embedded controller with 6x GbE, MezIO interface and low-profile chassis.",,10,Bare
-SO25100220,POD-251450,i7-9700E,"Intel® Core™ i7-9700E Processor (12M Cache, up to 4.40 GHz), TDP:65W CPU, installation and burn in test included",,10,Bare
-SO25100220,POD-251450,M.280-SSD-512GB-PCIe44-TLC5WT-T,"M.2 SSD 512GB, Key M 2280, TLC, NVMe PCIe Gen 4x4, -40°C~+85°C, Transcend.",,10,Bare
-SO25100220,POD-251450,CUSTOMER SERVICES,To理貨：請協助確認CPU產地非中國製,,10,Bare
+SO25100151,POD-251438,CSM-11006E,Empty Nuvo-11006E Cassette without NVBP-11000E backplane,,1,Bare
+SO25100176,POD-251442,Nuvo-9208VTC-i9IC-65W,"Nuvo-9208VTC, I226 version, including  i9-13900E",,5,Pre
 SO25100222,POD-251451,Nuvo-9204VTC-i9IC-65W,"Nuvo-9204VTC, I226 version, including  i9-13900E",,6,Pre
-SO25100223,POD-251452,NRU-220S-JAO64G,"NRU-220S, including  GC-Jetson-AGX64GB-Orin-Nvidia-JetPack-6.0",,6,Pre
 SO25100224,POD-251453,Nuvo-9501,Intel® Alder Lake 12th-Gen Core™compact fanless computer with 2x GbE and 4x USB3.2.,,20,Bare
-SO25100239,POD-251455,POC-545,"AMD Ryzen™ embedded V1807B ultra-compact embedded controller with  4x PoE+ ports, 4x USB 3.0 ports and MezIO™ interface.",,11,Bare
-SO25100240,POD-251432,POC-330-AEI01-100,"POC-330, including  DDR3L-4GB-WT18-DL1, mSATAHS-64GB-MLCWT-IK, Win10IoT19-Entry",,2,Pre
-SO25100240,POD-251432,Cbl-DB9F-3DB9M-15CM2,"1x DB9 (Female) to 3x DB9 (Male), for Nuvo-6000 series, Length: 15CM",,2,Bare
-SO25100240,POD-251432,CUSTOMER SERVICES,To產線：請不要安裝系統，但要貼附license,,2,Bare
-SO25100240,POD-251432,CUSTOMER SERVICES,To產線：請協助將機器與393-D1131150-134配對包裝,,2,Bare
+SO25100276,POD-251461,M.280-SSD-2TB-PCIe44-TLC5WT-TD,"M.2 SSD 2TB, Key M 2280, TLC, NVMe PCIe Gen 4x4, -40°C~+85°C, Transcend.",,11,Bare
+SO25100276,POD-251461,M.280-SSD-256GB-SATA-TLC5WT-TD,"M.2 SSD 256GB, Key B+M 2280, TLC, SATA III, -40°C~+85°C, Transcend",,6,Bare
+SO25100276,POD-251461,SSD-1TB-TLC5ET-TD,"2.5"""" SATA SSD 1TB TLC, -20°C~+75°C,Transcend",,5,Bare
+SO25100277,POD-251462,Nuvo-9160GC-PoE,"Ruggedized GPU-Computing Platform Supporting 130W nVidia® GPU and Intel® 12th-Gen Core™ Processor, with IEEE 802.3at PoE+ (I226-IT)",,4,Bare
+SO25100277,POD-251462,Nuvo-10108GC,"Industrial-grade GPU Computing Edge AI Platform Supporting an NVIDIA® RTX 40 Series Graphics Card, Intel® 14th/13th/12th-Gen Core™ Processor",,3,Bare
+SO25100277,POD-251462,Nuvo-10108GC-10G,"Industrial-grade GPU Computing Edge AI Platform Supporting an NVIDIA® RTX 40 Series Graphics Card, Intel® 14th/13th/12th-Gen Core™ Processor, with 10GbE option",,1,Bare
+SO25100277,POD-251462,Nuvo-7006LP-PoE,"Intel® Coffee Lake  8th-Gen Core™ i fanless embedded controller with 6x GbE, MezIO interface and low-profile chassis, with optional IEEE 802.3at PoE+.",,2,Bare
+SO25100281,POD-251463,TmP-XR-HL-29.5x29.5x5.0mm,"Size:29.5x29.5mm,Thickness:5.0mm;Color:Black;Thermal Conductivity:1.2W/mK ",,10,Bare
+SO25100283,POD-251456,Nuvis-7306RT-DTIO(EA)-i5HC,"Intel® 8th/ 9th-Gen Core™ i  machine vision controller with vision-specific I/O, real-time controler by patented DTIO V2 and GPU-computing.",,1,Bare
+SO25100283,POD-251456,i5-8500T,"Intel® Core™ i5-8500T Processor (9M Cache, up to 3.50 GHz), TDP:35W CPU, installation and burn in test included",,1,Bare
+SO25100284,POD-251457,Nuvo-9166GC-PoE-L4,"Nuvo-9166GC-PoE, with 6x 2.5GbE (I226-IT)/GbE, including  GC-L4-Nvidia",,2,Pre
+SO25100284,POD-251457,PA-600W-ENC,"600W AC-DC power Adapter (PMC-24V600W1RW), 24V/25A, 85~264VAC, Operating Temperature : -20~+70°C",,2,Bare
+SO25100285,POD-251458,Nuvo-2700DS,AMD Ryzen™ V1000 Rugged Quad 4K UHD Video-Wall Digital Signage Player with Edge AI Capability,,5,Bare
+SO25100290,POD-251467,Nuvo-9006E-PoE-UL,"Intel® 14th/ 13th/12th -Gen Core™ Rugged Embedded Computer with 6x 2.5GbE (I226-IT)/ GbE, USB 3.2 Type-C, single-slot PCIe Cassette, MezIO® Interface & UL certified, option of 802.3at PoE+ PSE for 2.5GbE port 3 ~ port 6.",,2,Bare
+SO25100290,POD-251467,LTN-452(EA),2-CH LED controller module supporting overdriving up to 10A and 2x DI,,4,Bare
+SO25100291,POD-251468,POC-715-UL,"POC-715-UL, including  DDR5-8GB-48-SM",,10,Pre
+SO25100304,POD-251469,Nuvo-9160GC-PoE,"Ruggedized GPU-Computing Platform Supporting 130W nVidia® GPU and Intel® 12th-Gen Core™ Processor, with IEEE 802.3at PoE+ (I226-IT)",,8,Bare
+SO25100305,POD-251464,POC-410,"POC-410 Intel® ElkhartLake ultra-compact embedded controller with 3x 2.5GbE ports,  2x USB 3.0 ports and MezIO interface.",,3,Bare
+SO25100306,POD-251459,NRU-230V-AWP-JAO64G,"NRU-230V-AWP, including  GC-Jetson-AGX64GB-Orin-Nvidia-JetPack-6.0",,1,Pre
+SO25100306,POD-251459,NRU-240S-AWP-JAO64G,"NRU-240S-AWP, including  GC-Jetson-AGX64GB-Orin-Nvidia-JetPack-6.0",,1,Pre
+SO25100306,POD-251459,Nuvo-9531-PoE-IGN-i5HC,"Nuvo-9531-PoE-IGN, including  i5-12500TE",,4,Pre
+SO25100306,POD-251459,Nuvo-9160GC-PoE-i5HC,"Nuvo-9160GC-PoE, I226 version, including  i5-12500TE",,2,Pre
+SO25100306,POD-251459,Nuvo-9006E-UL-i5HC-65W,"Nuvo-9006E-UL-i226, I226 version, including  i5-12500E",,4,Pre
+SO25100307,POD-251460,NRU-222S-JAO32G,"NRU-222S, including  GC-Jetson-AGX32GB-Orin-Nvidia-JetPack-6.0",,2,Pre
+SO25100308,POD-251472,AccsyBx-Pnl-Nuvo-9208VTC-CST,"Accessory box kit for Nuvo-9208VTC-CST, including customized front and rear panels, cushions, and pizza box for NTA CoastIPC.",,25,Bare
